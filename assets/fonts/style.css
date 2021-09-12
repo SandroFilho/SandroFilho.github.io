@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'ProductSans-Black';
+   font-display: swap;
+   src: url('ProductSans-Black/font.ttf');
+}
+@font-face {
+   font-family: 'ProductSans-Medium';
+   font-display: swap;
+   src: url('ProductSans-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'ProductSans-Regular';
+   font-display: swap;
+   src: url('ProductSans-Regular/font.ttf');
+}
